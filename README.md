@@ -1,2 +1,2 @@
-# HBB_HEXA_analysis
-Analysis of HBB &amp; HEXA gene from Anzalone data
+# TP53_L194F_analysis
+Analysis of substitution L194 on tp53 gene for breast cancer
